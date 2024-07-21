@@ -11,15 +11,15 @@ Two methods are employed to improve the performance of the medical chatbot model
 
 
 TECHNOLOGY STACK:
-Python
-Data Analysis
-Large Language Model (LLM)
-LangChain
-Retrieval Augmented Generation (RAG)
-Streamlit or Gradio
-GitHub
-Amazon Sagemaker
-Google Collaboratory
+1. Python
+2. Data Analysis
+3. Large Language Model (LLM)
+4. LangChain
+5. Retrieval Augmented Generation (RAG)
+6. Streamlit or Gradio
+7. GitHub
+8. Amazon Sagemaker
+9. Google Collaboratory
 
 
 DATASET USED:
