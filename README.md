@@ -24,3 +24,6 @@ TECHNOLOGY STACK:
 
 DATASET USED:
 https://huggingface.co/datasets/gamino/wiki_medical_terms
+
+DISCLAIMER:
+This model is intended for research purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any medical concerns.
