@@ -1,6 +1,7 @@
 # MedChat
 MS Research Project - MedChat
 
+
 SCOPE:
 This research aims to analyse and assess the performance and effectiveness of an open-source, small-scale LLM as a chatbot application within the medical domain. The study will explore the collaboration between chatbot functionality, open-source platforms, and the utilisation of small-scale LLMs in the medical landscape leveraging Retrieval Augmented Generation (RAG) and AI Agents. This study seeks to determine the Generative AI's accuracy, reliability, and utility in providing medical information and support by employing a comprehensive dataset of medical terms and their corresponding explanations. The ultimate goal is to enhance the accessibility and quality of healthcare communication through cost-effective AI-driven solutions.
 
@@ -25,6 +26,7 @@ TECHNOLOGY STACK:
 
 DATASET USED:
 https://huggingface.co/datasets/gamino/wiki_medical_terms
+
 
 DISCLAIMER:
 This model is intended for research and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any medical concerns.
