@@ -8,7 +8,8 @@ This research aims to analyse and assess the performance and effectiveness of an
 Two methods are employed to improve the performance of the medical chatbot model:
 
 1. Retrieval Augmented Generation (RAG): This technique will be used to build the chatbot by retrieving relevant medical information from a knowledge base during the generation process.
-2. AI Agent: The AI agent will interact with its environment, collect data, and use the data to perform self-determined tasks to meet predetermined goals.
+2. 
+3. AI Agent: The AI agent will interact with its environment, collect data, and use the data to perform self-determined tasks to meet predetermined goals.
 
 
 TECHNOLOGY STACK:
